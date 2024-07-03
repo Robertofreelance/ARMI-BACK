@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Cafe Expresso",
+        "price": 6.900
+    },
+    {
+        "id": 2,
+        "name": "Cafe Capuccino",
+        "price": 9.900
+    },
+    {
+        "id": 3,
+        "name": "Cafe helado",
+        "price": 14.900
+    }
+]

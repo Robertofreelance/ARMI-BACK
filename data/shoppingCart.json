@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1720034885135",
+    "product": {
+      "id": 3,
+      "name": "Cafe helado",
+      "price": 14.9
+    },
+    "quantity": 2
+  },
+  {
+    "id": "1720041169911",
+    "product": {
+      "id": 1,
+      "name": "Cafe Expresso",
+      "price": 6.9
+    },
+    "quantity": 3
+  }
+]
